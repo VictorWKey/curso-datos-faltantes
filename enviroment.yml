@@ -1,0 +1,17 @@
+name: curso-datos-faltantes
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - seaborn
+  - matplotlib
+  - numpy
+  - session-info
+  - pandas
+  - upsetplot
+  - missingno
+  - python=3.9.7
+  - pyjanitor
+  - pyreadr
+  - ipykernel
+prefix: /home/victorwkey/anaconda3/envs/curso-datos-faltantes
